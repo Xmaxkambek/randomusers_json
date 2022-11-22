@@ -1,3 +1,3 @@
-import 'package:randomusers_json/randomusers_json.dart' as randomusers_json;
+import 'package:randomusers_json/randomusers_json.dart';
 
 void main() {}
