@@ -12,10 +12,11 @@ Map fromFile(String filename) {
 void main() {
 // File path
 
-  final path = 'users_1.json';
+  final path = 'users.json';
 
   Map data = fromFile(path);
 
-  List users = data['users'];
-  print(users[0]);
+  // Count users
+  int count = countUsers(data);
+  print('Number of users: $count');
 }
