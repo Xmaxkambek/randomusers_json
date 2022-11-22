@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Dominic",
+                "last": "Warholm"
+            },
+            "age": 23
+        }
+    ]
+}
