@@ -17,7 +17,7 @@
                 "first": "Eliud",
                 "last": "Kipchoge"
             },
-            "age": 34,
+            "age": 24,
             "country":"Kenya"
         },
         {
@@ -27,7 +27,7 @@
                 "first": "Allyson",
                 "last": "Felix"
             },
-            "age": 24,
+            "age": 25,
             "country": "USA"
         },
         {
@@ -38,7 +38,7 @@
                 "last": "Semenya"
             },
             "age": 28,
-            "country":"South Africa"
+            "country": "UZB"
         }
     ]
 }

@@ -18,5 +18,5 @@ void main() {
 
   // Count users
   int count = countUsers(data);
-  print('Number of users: $count');
+  print(getUsers(data));
 }
